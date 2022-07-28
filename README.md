@@ -1,9 +1,8 @@
 # Twitter-Sentiment-Analysis-Project
 
 ## Models
-1. Support Vector Machine
-2. Logistic Regression
-3. Multinomial Naive Bayes
+1. Logistic Regression
+2. Multinomial Naive Bayes
 
 ## Libraries
 1. Re
@@ -33,35 +32,25 @@
   ![image](https://user-images.githubusercontent.com/52949047/181500225-dd98c68c-fe96-4500-abae-a8245add44c2.png)
 
 ## Classification Accuracy : 
-1. Support Vector Machine : 78%
-2. Logistic Regression : 79%
-3. Multinomial Naive Bayes : 78%
+1. Logistic Regression : 79%
+2. Multinomial Naive Bayes : 78%
 
-## Confusion Matrix : 
-1. Support Vector Machine
-
-![image](https://user-images.githubusercontent.com/52949047/181590576-d256223d-ef94-41e9-bb34-253a2dfa3f3f.png)
-
-
-2. Logistic Regression
+## Confusion Matrix :
+1. Logistic Regression
 
 ![image](https://user-images.githubusercontent.com/52949047/181590541-f7f569a7-618b-4214-863d-dbdef7db9c7d.png)
 
 
-3. Multinomial Naive Bayes
+2. Multinomial Naive Bayes
 
 
 ![image](https://user-images.githubusercontent.com/52949047/181590236-9b7a8587-552a-4be1-86da-d13ef5fbacd2.png)
 
 ## Classification Report : 
-1. Support Vector Machine
-
-![image](https://user-images.githubusercontent.com/52949047/181590625-9717b4db-8fb8-4bd8-a5ee-7864bb371f2c.png)
-
-2. Logistic Regression
+1. Logistic Regression
 
 ![image](https://user-images.githubusercontent.com/52949047/181590448-c781bd07-e68f-4524-a39b-019c836e7d1a.png)
 
-3. Multinomial Naive Bayes
+2. Multinomial Naive Bayes
 
 ![image](https://user-images.githubusercontent.com/52949047/181590169-e9bd5949-43a3-4a25-aa63-33b34ee0d15b.png)
