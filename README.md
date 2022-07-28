@@ -34,33 +34,34 @@
 
 ## Classification Accuracy : 
 1. Support Vector Machine : 78%
-2. Logistic Regression : 80%
+2. Logistic Regression : 79%
 3. Multinomial Naive Bayes : 78%
 
 ## Confusion Matrix : 
 1. Support Vector Machine
 
-![image](https://user-images.githubusercontent.com/52949047/181500876-954de6b9-d9b2-43ec-aba5-1fc2f9408716.png)
+![image](https://user-images.githubusercontent.com/52949047/181590576-d256223d-ef94-41e9-bb34-253a2dfa3f3f.png)
 
 
 2. Logistic Regression
 
-![image](https://user-images.githubusercontent.com/52949047/181500957-8472641b-f03d-4e4b-84eb-30bc0d15f906.png)
+![image](https://user-images.githubusercontent.com/52949047/181590541-f7f569a7-618b-4214-863d-dbdef7db9c7d.png)
 
 
 3. Multinomial Naive Bayes
 
-![image](https://user-images.githubusercontent.com/52949047/181501168-bbb7806e-3caa-4711-a31a-094f0925b94d.png)
+
+![image](https://user-images.githubusercontent.com/52949047/181590236-9b7a8587-552a-4be1-86da-d13ef5fbacd2.png)
 
 ## Classification Report : 
 1. Support Vector Machine
 
-![image](https://user-images.githubusercontent.com/52949047/181500787-963a9173-b17a-4d2d-9f57-983fd8f92570.png)
+![image](https://user-images.githubusercontent.com/52949047/181590625-9717b4db-8fb8-4bd8-a5ee-7864bb371f2c.png)
 
 2. Logistic Regression
 
-![image](https://user-images.githubusercontent.com/52949047/181500911-0ef529e0-d194-4c22-b930-9cccd6df5e51.png)
+![image](https://user-images.githubusercontent.com/52949047/181590448-c781bd07-e68f-4524-a39b-019c836e7d1a.png)
 
 3. Multinomial Naive Bayes
 
-![image](https://user-images.githubusercontent.com/52949047/181501134-18dfafd0-0d68-4dee-ae97-f7b6123bb10a.png)
+![image](https://user-images.githubusercontent.com/52949047/181590169-e9bd5949-43a3-4a25-aa63-33b34ee0d15b.png)
